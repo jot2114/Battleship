@@ -1,0 +1,9 @@
+C:\Users\Apprentice\Desktop\_repos\MaySelfWork\week3\Battleship\BattleShip_Start\Battleship.Tests\bin\Debug\Battleship.Tests.dll
+C:\Users\Apprentice\Desktop\_repos\MaySelfWork\week3\Battleship\BattleShip_Start\Battleship.Tests\bin\Debug\Battleship.Tests.pdb
+C:\Users\Apprentice\Desktop\_repos\MaySelfWork\week3\Battleship\BattleShip_Start\Battleship.Tests\bin\Debug\BattleShip.BLL.dll
+C:\Users\Apprentice\Desktop\_repos\MaySelfWork\week3\Battleship\BattleShip_Start\Battleship.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Apprentice\Desktop\_repos\MaySelfWork\week3\Battleship\BattleShip_Start\Battleship.Tests\bin\Debug\BattleShip.BLL.pdb
+C:\Users\Apprentice\Desktop\_repos\MaySelfWork\week3\Battleship\BattleShip_Start\Battleship.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Apprentice\Desktop\_repos\MaySelfWork\week3\Battleship\BattleShip_Start\Battleship.Tests\obj\Debug\Battleship.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Desktop\_repos\MaySelfWork\week3\Battleship\BattleShip_Start\Battleship.Tests\obj\Debug\Battleship.Tests.dll
+C:\Users\Apprentice\Desktop\_repos\MaySelfWork\week3\Battleship\BattleShip_Start\Battleship.Tests\obj\Debug\Battleship.Tests.pdb

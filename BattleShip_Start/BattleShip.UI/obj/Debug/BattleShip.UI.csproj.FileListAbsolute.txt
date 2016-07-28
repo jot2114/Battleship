@@ -1,0 +1,16 @@
+C:\Users\Apprentice\Desktop\_repos\akron-dotnet-may-2016-materials\SampleCode\Battleship\BattleShip_Start\BattleShip.UI\bin\Debug\BattleShip.UI.exe.config
+C:\Users\Apprentice\Desktop\_repos\akron-dotnet-may-2016-materials\SampleCode\Battleship\BattleShip_Start\BattleShip.UI\bin\Debug\BattleShip.UI.exe
+C:\Users\Apprentice\Desktop\_repos\akron-dotnet-may-2016-materials\SampleCode\Battleship\BattleShip_Start\BattleShip.UI\bin\Debug\BattleShip.UI.pdb
+C:\Users\Apprentice\Desktop\_repos\akron-dotnet-may-2016-materials\SampleCode\Battleship\BattleShip_Start\BattleShip.UI\bin\Debug\BattleShip.BLL.dll
+C:\Users\Apprentice\Desktop\_repos\akron-dotnet-may-2016-materials\SampleCode\Battleship\BattleShip_Start\BattleShip.UI\bin\Debug\BattleShip.BLL.pdb
+C:\Users\Apprentice\Desktop\_repos\akron-dotnet-may-2016-materials\SampleCode\Battleship\BattleShip_Start\BattleShip.UI\obj\Debug\BattleShip.UI.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Desktop\_repos\akron-dotnet-may-2016-materials\SampleCode\Battleship\BattleShip_Start\BattleShip.UI\obj\Debug\BattleShip.UI.exe
+C:\Users\Apprentice\Desktop\_repos\akron-dotnet-may-2016-materials\SampleCode\Battleship\BattleShip_Start\BattleShip.UI\obj\Debug\BattleShip.UI.pdb
+C:\Users\Apprentice\Desktop\_repos\MaySelfWork\week3\Battleship\BattleShip_Start\BattleShip.UI\bin\Debug\BattleShip.UI.exe.config
+C:\Users\Apprentice\Desktop\_repos\MaySelfWork\week3\Battleship\BattleShip_Start\BattleShip.UI\obj\Debug\BattleShip.UI.exe
+C:\Users\Apprentice\Desktop\_repos\MaySelfWork\week3\Battleship\BattleShip_Start\BattleShip.UI\obj\Debug\BattleShip.UI.pdb
+C:\Users\Apprentice\Desktop\_repos\MaySelfWork\week3\Battleship\BattleShip_Start\BattleShip.UI\bin\Debug\BattleShip.UI.exe
+C:\Users\Apprentice\Desktop\_repos\MaySelfWork\week3\Battleship\BattleShip_Start\BattleShip.UI\bin\Debug\BattleShip.UI.pdb
+C:\Users\Apprentice\Desktop\_repos\MaySelfWork\week3\Battleship\BattleShip_Start\BattleShip.UI\bin\Debug\BattleShip.BLL.dll
+C:\Users\Apprentice\Desktop\_repos\MaySelfWork\week3\Battleship\BattleShip_Start\BattleShip.UI\bin\Debug\BattleShip.BLL.pdb
+C:\Users\Apprentice\Desktop\_repos\MaySelfWork\week3\Battleship\BattleShip_Start\BattleShip.UI\obj\Debug\BattleShip.UI.csprojResolveAssemblyReference.cache

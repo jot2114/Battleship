@@ -1,0 +1,5 @@
+C:\Users\Apprentice\Desktop\_repos\akron-dotnet-may-2016-materials\SampleCode\Battleship\BattleShip_Start\BattleShip.BLL\bin\Debug\BattleShip.BLL.dll
+C:\Users\Apprentice\Desktop\_repos\akron-dotnet-may-2016-materials\SampleCode\Battleship\BattleShip_Start\BattleShip.BLL\bin\Debug\BattleShip.BLL.pdb
+C:\Users\Apprentice\Desktop\_repos\akron-dotnet-may-2016-materials\SampleCode\Battleship\BattleShip_Start\BattleShip.BLL\obj\Debug\BattleShip.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Desktop\_repos\akron-dotnet-may-2016-materials\SampleCode\Battleship\BattleShip_Start\BattleShip.BLL\obj\Debug\BattleShip.BLL.dll
+C:\Users\Apprentice\Desktop\_repos\akron-dotnet-may-2016-materials\SampleCode\Battleship\BattleShip_Start\BattleShip.BLL\obj\Debug\BattleShip.BLL.pdb
